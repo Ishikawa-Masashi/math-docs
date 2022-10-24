@@ -25,7 +25,7 @@ $$
 $$
 
 クォータニオン
-$ \boldsymbol{q} $
+$ \boldsymbol {q} $
 を次のように表します。
 
 $$
