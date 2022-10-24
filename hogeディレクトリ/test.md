@@ -37,9 +37,10 @@ $$
 i^2 + j^2 + k ^2 = -1\\
 ij = k\\
 jk = i\\
-ki = j
+ki = j\\
 $$
 
+fda
 
 $$
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
