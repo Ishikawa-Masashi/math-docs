@@ -8,9 +8,12 @@ slide: false
 
 # 準備
 
-回転行列$ \boldsymbol {R}$の各要素を次のように表します。
+回転行列
+$ \boldsymbol {R}$
+の各要素を次のように表します。
 
-$$ \displaystyle
+$$ 
+\displaystyle
 \boldsymbol{R} =
 \left(
   \begin{array}{ccc}
@@ -41,20 +44,6 @@ ki = j\\
 $$
 
 
-$$
-\boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
-  \begin{array}{c}
-    q_x \\
-    q_y \\
-    q_z \\
-    q_w
-  \end{array}
-\right] \\
-i^2 + j^2 + k ^2 = -1\\
-ij = k\\
-jk = i\\
-ki = j
-$$
 オイラー角のXYZ各軸に対する回転角度をそれぞれ$\theta_x$、$\theta_y$、$\theta_z$と表現します。オイラー角は各軸に対する回転を適用する順番により最終的な結果が変わります。この記事では回転順を後から適用されるものから順に軸を並べたXYZというような形式で表現します。例えばXYZの場合、Z軸、Y軸、X軸という順に回転を適用していきます。
 
 
@@ -64,8 +53,9 @@ $$
 
 X軸に対する回転行列$\boldsymbol{R_x}$、Y軸に対する回転行列$\boldsymbol{R_y}$、Z軸に対する回転行列$\boldsymbol{R_z}$はそれぞれ次のようになります。
 
-```math
-\begin{eqnarray}
+
+$$
+\begin{aligned}
 \boldsymbol{R_x} &=&
 \left(
   \begin{array}{ccc}
@@ -90,14 +80,14 @@ X軸に対する回転行列$\boldsymbol{R_x}$、Y軸に対する回転行列$\b
     0 & 0 & 1
   \end{array}
 \right)
-\end{eqnarray}
-```
+\end{aligned}
+$$
 
 この3つの行列$\boldsymbol{R_x}$、$\boldsymbol{R_y}$、$\boldsymbol{R_z}$の積を求めることで、オイラー角を回転行列に変換することができます。先述したようにオイラー角では回転順が最終結果に影響するので、各回転順での変換を求めていきます。
 
 ### 回転順XYZ
 
-```math
+$$
 \boldsymbol{R_{xyz}} = \boldsymbol{R_x}\boldsymbol{R_y}\boldsymbol{R_z} = 
 \left(
   \begin{array}{ccc}
@@ -106,7 +96,7 @@ X軸に対する回転行列$\boldsymbol{R_x}$、Y軸に対する回転行列$\b
     -\cos\theta_{x}\sin\theta_{y}\cos\theta_{z} + \sin\theta_{x}\sin\theta_{z} & \cos\theta_{x}\sin\theta_{y}\sin\theta_{z} + \sin\theta_{x}\cos\theta_{z} & \cos\theta_{x}\cos\theta_{y}
   \end{array}
 \right)
-```
+$$
 
 ### 回転順XZY
 
