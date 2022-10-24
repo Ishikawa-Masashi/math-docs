@@ -23,7 +23,9 @@ $$ \displaystyle
 \right)\\
 $$
 
-クォータニオン$ \boldsymbol{q} $を次のように表します。
+クォータニオン
+$ \boldsymbol{q} $
+を次のように表します。
 
 $$
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
