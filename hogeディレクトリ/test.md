@@ -8,8 +8,7 @@ slide: false
 
 # 準備
 
-回転行列
-$ \boldsymbol {R} $
+回転行列$\boldsymbol {R}$
 の各要素を次のように表します。
 
 $$ 
@@ -39,7 +38,7 @@ $$
   \end{array}
 \right] \\
 i^2 + j^2 + k ^2 &= -1 \\
-ij &= kj \\
+ij &= k \\
 jk &= i \\
 ki &= j \\
 \end{align}
