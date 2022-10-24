@@ -8,9 +8,7 @@ slide: false
 
 # 準備
 
-回転行列
-$\boldsymbol {R}$
-の各要素を次のように表します。
+回転行列$ \boldsymbol {R}$の各要素を次のように表します。
 
 $$ \displaystyle
 \boldsymbol{R} =
@@ -42,7 +40,6 @@ jk = i\\
 ki = j\\
 $$
 
-fda
 
 $$
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
