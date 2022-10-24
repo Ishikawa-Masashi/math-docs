@@ -29,8 +29,6 @@ $ \boldsymbol{q} $
 を次のように表します。
 
 $$
-
-\begin{aligned}
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
   \begin{array}{c}
     q_x \\
@@ -43,7 +41,6 @@ i^2 + j^2 + k ^2 = -1\\
 ij = k\\
 jk = i\\
 ki = j\\
-\end{aligned}
 $$
 
 
@@ -103,7 +100,7 @@ $$
 
 ### 回転順XZY
 
-```math
+$$
 \boldsymbol{R_{xzy}} = \boldsymbol{R_x}\boldsymbol{R_z}\boldsymbol{R_y} = 
 \left(
   \begin{array}{ccc}
@@ -112,7 +109,7 @@ $$
     \sin\theta_{x}\cos\theta_{y}\sin\theta_{z} - \cos\theta_{x}\sin\theta_{y} & \sin\theta_{x}\cos\theta_{z} & \sin\theta_{x}\sin\theta_{y}\sin\theta_{z} + \cos\theta_{x}\cos\theta_{y}
   \end{array}
 \right)\\
-```
+$$
 
 ### 回転順YXZ
 
