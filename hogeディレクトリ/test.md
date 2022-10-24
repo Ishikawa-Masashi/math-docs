@@ -8,7 +8,7 @@ slide: false
 
 # 準備
 
-回転行列$\boldsymbol{R}$の各要素を次のように表します。
+回転行列 $a \ne 0$ $ \boldsymbol{R}$の各要素を次のように表します。
 
 $$ \displaystyle
 \boldsymbol{R} =
