@@ -10,7 +10,7 @@ slide: false
 
 回転行列$\boldsymbol{R}$の各要素を次のように表します。
 
-```math
+$$
 \boldsymbol{R} =
 \left(
   \begin{array}{ccc}
@@ -19,7 +19,7 @@ slide: false
     m_{20} & m_{21} & m_{22}
   \end{array}
 \right)\\
-```
+$$
 
 クォータニオン$\boldsymbol{q}$を次のように表します。
 
