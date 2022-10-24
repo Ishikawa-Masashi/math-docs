@@ -11,7 +11,7 @@ slide: false
 回転行列$a \boldsymbol {R}$ 
 
 
-$a \ne 0$,
+$a \ne 0 \boldsymbol$,
 の各要素を次のように表します。
 
 $$ 
