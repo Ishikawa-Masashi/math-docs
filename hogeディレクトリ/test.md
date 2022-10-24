@@ -8,10 +8,7 @@ slide: false
 
 # 準備
 
-回転行列 $a \ne 0$ 
-
-
-$\boldsymbol {R}$の各要素を次のように表します。
+回転行列$\boldsymbol {R}$の各要素を次のように表します。
 
 $$ \displaystyle
 \boldsymbol{R} =
@@ -41,6 +38,20 @@ jk = i\\
 ki = j
 $$
 
+$$
+\boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
+  \begin{array}{c}
+    q_x \\
+    q_y \\
+    q_z \\
+    q_w
+  \end{array}
+\right] \\
+i^2 + j^2 + k ^2 = -1\\
+ij = k\\
+jk = i\\
+ki = j
+$$
 オイラー角のXYZ各軸に対する回転角度をそれぞれ$\theta_x$、$\theta_y$、$\theta_z$と表現します。オイラー角は各軸に対する回転を適用する順番により最終的な結果が変わります。この記事では回転順を後から適用されるものから順に軸を並べたXYZというような形式で表現します。例えばXYZの場合、Z軸、Y軸、X軸という順に回転を適用していきます。
 
 
