@@ -29,20 +29,20 @@ $ \boldsymbol{q} $
 を次のように表します。
 
 $$
-\begin{equation}
-\boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
+\begin{split}
+\boldsymbol{q} = q_w + q_xi + q_yj + q_zk $= \left[
   \begin{array}{c}
     q_x \\
     q_y \\
     q_z \\
     q_w
   \end{array}
-\right] \\\\
-i^2 + j^2 + k ^2 = -1 \\
+\right] \\
+i^2 + j^2 + k ^2 $= -1 \\
 ij = kj \\
 jk = i \\
 ki = j \\
-\end{equation}
+\end{split}
 $$
 
 
