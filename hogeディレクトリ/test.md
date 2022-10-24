@@ -29,6 +29,7 @@ $ \boldsymbol{q} $
 を次のように表します。
 
 $$
+\begin{aligned}
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
   \begin{array}{c}
     q_x \\
@@ -41,6 +42,8 @@ i^2 + j^2 + k ^2 = -1\\
 ij = k\\
 jk = i\\
 ki = j\\
+
+\end{aligned}
 $$
 
 
