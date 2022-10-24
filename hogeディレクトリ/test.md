@@ -39,9 +39,9 @@ $$
   \end{array}
 \right] \\
 i^2 + j^2 + k ^2 $= -1 \\
-ij = kj \\
-jk = i \\
-ki = j \\
+ij $= kj \\
+jk $= i \\
+ki $= j \\
 \end{split}
 $$
 
