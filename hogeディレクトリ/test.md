@@ -40,6 +40,7 @@ jk = i\\
 ki = j
 $$
 
+
 $$
 \boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
   \begin{array}{c}
