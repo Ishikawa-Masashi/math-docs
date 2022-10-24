@@ -9,7 +9,7 @@ slide: false
 # 準備
 
 回転行列
-$ \boldsymbol {R}$
+$ \boldsymbol{R}$
 の各要素を次のように表します。
 
 $$ 
@@ -43,7 +43,6 @@ i^2 + j^2 + k ^2 = -1\\
 ij = k\\
 jk = i\\
 ki = j\\
-
 \end{aligned}
 $$
 
