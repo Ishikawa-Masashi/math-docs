@@ -34,8 +34,7 @@ $$
     q_z \\
     q_w
   \end{array}
-\right]
-
+\right] \\
 i^2 + j^2 + k ^2 = -1\\
 ij = k\\
 jk = i\\
