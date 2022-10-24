@@ -37,10 +37,10 @@ $$
     q_w
   \end{array}
 \right] \\
-i^2 + j^2 + k ^2 = -1\\
-ij = k\\
-jk = i\\
-ki = j\\
+i^2 + j^2 + k ^2 = -1 \\
+ij = kj \\
+jk = i \\
+ki = j \\
 $$
 
 
