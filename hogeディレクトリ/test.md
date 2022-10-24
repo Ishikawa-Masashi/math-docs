@@ -27,10 +27,7 @@ $$
 クォータニオン$\boldsymbol{q}$を次のように表します。
 
 $$
-\boldsymbol{q} =
-q_w + q_xi + q_yj + q_zk
-=
-\left[
+\boldsymbol{q} = q_w + q_xi + q_yj + q_zk = \left[
   \begin{array}{c}
     q_x \\
     q_y \\
