@@ -8,7 +8,10 @@ slide: false
 
 # 準備
 
-回転行列$a \boldsymbol {R}$ $a \ne 0$,
+回転行列$a \boldsymbol {R}$ 
+
+
+$a \ne 0$,
 の各要素を次のように表します。
 
 $$ 
